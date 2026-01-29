@@ -24,6 +24,3 @@ I am a passionate developer with a keen interest in web development and Android 
 
 ## Contact Me
 📫 How to reach me: [itzmejanak@gmail.com](mailto:itzmejanak@gmail.com)
-
-## Pronouns
-😄 They/Them
