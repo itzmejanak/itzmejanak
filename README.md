@@ -12,10 +12,15 @@ I am a passionate developer with a keen interest in web development and Android 
 ## Skills
 - **Web Development**: HTML, CSS, JavaScript
 - **Android Development**: Currently learning Android development
-- **Frameworks**: ReactJS (currently learning)
+- **Frameworks**: ReactJS 
 
-## Why I Want to Join the Developers' Community
-I am eager to collaborate with like-minded individuals on innovative web apps and Android projects. I believe that being part of a community will enhance my learning experience and allow me to contribute to exciting projects.
+<a href="https://github-readme-stats.vercel.app/api?username=itzmejanak&theme=dark&show_icons=true">
+<img align="center" alt="itzmejanak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itzmejanak&theme=dark&show_icons=true" /></a>
+  <br />
+  <br />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmejanak&layout=compact&theme=dark">
+  <img align="center" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmejanak&layout=compact&theme=dark" />
+</a>
 
 ## Contact Me
 📫 How to reach me: [itzmejanak@gmail.com](mailto:itzmejanak@gmail.com)
