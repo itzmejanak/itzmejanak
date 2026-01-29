@@ -14,12 +14,12 @@ I am a passionate developer with a keen interest in web development and Android 
 - **Android Development**: Currently learning Android development
 - **Frameworks**: ReactJS 
 
-<a href="https://github-readme-stats.vercel.app/api?username=itzmejanak&theme=dark&show_icons=true">
-<img align="center" alt="itzmejanak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itzmejanak&theme=dark&show_icons=true" /></a>
+<a href="https://github-readme-stats-liart-nu-34.vercel.app/api?username=itzmejanak&theme=dark&show_icons=true">
+<img align="center" alt="itzmejanak's Github Stats" src="https://github-readme-stats-liart-nu-34.vercel.app/api?username=itzmejanak&theme=dark&show_icons=true" /></a>
   <br />
   <br />
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmejanak&layout=compact&theme=dark">
-  <img align="center" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmejanak&layout=compact&theme=dark" />
+<a href="https://github-readme-stats-liart-nu-34.vercel.app/api/top-langs/?username=itzmejanak&layout=compact&theme=dark">
+  <img align="center" alt="top-langs" src="https://github-readme-stats-liart-nu-34.vercel.app/api/top-langs/?username=itzmejanak&layout=compact&theme=dark" />
 </a>
 
 ## Contact Me
