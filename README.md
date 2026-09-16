@@ -50,6 +50,9 @@ LLM APIs · AI Image Generation · AI Video Generation · Multi-Model Systems
 
 Building practical software across **web, backend, AI, IoT, mobile, and desktop**.
 
+- [ForgeKit](https://github.com/itzmejanak/forgeKit) — Extensible Android development platform with embedded Linux tooling.
+- [DNSHero](https://github.com/itzmejanak) — Cross-platform DNS security manager built with Rust, Tauri, and React.
+
 ## Connect
 
 - 🌐 [Portfolio](https://janakdevkota.com.np)
