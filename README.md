@@ -52,6 +52,8 @@ Building practical software across **web, backend, AI, IoT, mobile, and desktop*
 
 ## Connect
 
+## Connect
+
 - 🌐 [Portfolio](https://janakdevkota.com.np)
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/janak-devkota-5a7679236/)
 - 📧 itzmejanak@gmail.com
