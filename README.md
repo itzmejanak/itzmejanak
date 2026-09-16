@@ -1,18 +1,57 @@
-# 👋 Hi, I’m @itzmejanak
+# Hi, I'm Janak 👋
 
-## About Me
-I am a passionate developer with a keen interest in web development and Android development. I enjoy exploring new technologies and contributing to open-source projects.
+**Full-Stack Engineer building scalable web, backend, IoT, AI, mobile, and desktop applications.**
 
-## Interests and Hobbies
-- **Web Development**: I love creating dynamic and responsive web applications.
-- **Android Development**: I am currently diving into Android app development.
-- **Open-Source Projects**: I believe in the power of collaboration and community-driven projects.
-- **Hiking**: I enjoy spending time outdoors and have climbed three of the highest peaks in my country!
+I care about **clean code, good architecture, reliable systems, and practical engineering**.
 
-## Skills
-- **Web Development**: HTML, CSS, JavaScript
-- **Android Development**: Currently learning Android development
-- **Frameworks**: ReactJS 
+## Engineering Focus
 
-## Contact Me
-📫 How to reach me: [itzmejanak@gmail.com](mailto:itzmejanak@gmail.com)
+- Full-Stack & Backend Development
+- Distributed & Event-Driven Systems
+- IoT & Real-Time Applications
+- AI & LLM Integrations
+- Cross-Platform & Desktop Applications
+- API & Database Design
+
+## Tech Stack
+
+**Languages**
+TypeScript · JavaScript · Python · Java · C# · Rust
+
+**Frontend**
+React · Next.js · React Native · Expo
+
+**Backend**
+FastAPI · Django · Spring Boot · Express.js
+
+**Data & Messaging**
+PostgreSQL · MySQL · MongoDB · Redis · RabbitMQ · MQTT · EMQX
+
+**Infrastructure**
+Docker · Linux · Nginx · Git · REST APIs
+
+**AI**
+LLM APIs · AI Image Generation · AI Video Generation · Multi-Model Systems
+
+## Engineering Practices
+
+- Clean, maintainable, and readable code
+- Modular and scalable architecture
+- Type-safe development
+- Secure API and service communication
+- Well-designed APIs and databases
+- Caching and performance optimization
+- Background and asynchronous processing
+- Containerized development and deployment
+- Git-based workflows and code reviews
+- Testing and production-focused engineering
+
+## Open Source
+
+Building practical software across **web, backend, AI, IoT, mobile, and desktop**.
+
+## Connect
+
+- 🌐 [Portfolio](https://janakdevkota.com.np)
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 📧 itzmejanak@gmail.com
